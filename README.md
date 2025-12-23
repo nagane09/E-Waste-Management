@@ -1,10 +1,10 @@
-# 🌍 E-Waste Management System - https://aquamarine-starburst-db715f.netlify.app/donate
+# 🌍 E-Waste Management System 
 
 ## 📖 Introduction
 
 This project is a comprehensive **E-Waste Management System** designed to bridge the gap between end-users and recycling facilities. It digitizes the lifecycle of electronic waste—from the moment a user decides to dispose of a device to its final processing at a certified recycling center.
 
-**Live Demo:**  https://aquamarine-starburst-db715f.netlify.app/donate  <!-- Replace with your hosted URL -->
+**Live Demo:**    https://aquamarine-starburst-db715f.netlify.app/donate <!-- Replace with your hosted URL -->
 
 ---
 
